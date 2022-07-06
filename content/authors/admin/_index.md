@@ -35,15 +35,15 @@ organizations:
     url: https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/makrooekonomik
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Leipzig University
+      year: 2022
+    - course: MSc in Economics
+      institution: Heidelberg University
+      year: 2015
+    - course: BSc in Global Business Management
+      institution: University of Augsburg
+      year: 2013
 superuser: true
 highlight_name: true
 title: Konstantin Gantert
