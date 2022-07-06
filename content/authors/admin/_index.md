@@ -1,11 +1,10 @@
 ---
 role: PostDoc in Economics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantitative Dynamic Macroeconomics
+  - Inflation and Monetary Policy
+  - Search-and-Matching Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -49,9 +48,10 @@ highlight_name: true
 title: Konstantin Gantert
 email: ""
 ---
+Welcome to my personal webpage,
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an applied macroeconomist working in the fields of monetary policy, inflation, and business cycle analysis. I hold a Ph.D. in Economics from [Leipzig University](https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/makrooekonomik) in Germany.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my dissertation, I have worked on the impact of non-clearing goods markets on inflation, productivity, and monetary policy. Recently, my work concentrates on monetary policy effectiveness in non-clearing goods markets and capacity utilization as a monetary policy target.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
