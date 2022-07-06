@@ -12,19 +12,27 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KGantert
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=LFhAQA0AAAAJ&hl
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/KGantert
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/konstantingantert/
+    display:
+      header: true
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Leipzig University
+    url: https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/makrooekonomik
 education:
   courses:
     - course: PhD in Artificial Intelligence
