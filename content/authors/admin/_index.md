@@ -48,7 +48,7 @@ highlight_name: true
 title: Konstantin Gantert
 email: ""
 ---
-Welcome to my personal webpage,
+
 
 I am an applied macroeconomist working in the fields of monetary policy, inflation, and business cycle analysis. I hold a Ph.D. in Economics from [Leipzig University](https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/makrooekonomik) in Germany.
 
