@@ -9,4 +9,3 @@ title: Biography
 design:
   columns: "2"
 ---
-Test
