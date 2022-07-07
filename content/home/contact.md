@@ -25,23 +25,22 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: mail@konstantingantert.com
+  phone: +49 341 9733543
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Grimmaische Straße 12
+    city: Leipzig
+    region: Saxony
+    postcode: '04109'
+    country: Germany
+    country_code: DE
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '51.33953147119495'
+    longitude: '12.378558772656167'
+  directions: Institutsgebäude Room I209
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - ''
+  appointment_url: ''
   contact_links:
     - icon: twitter
       icon_pack: fab
