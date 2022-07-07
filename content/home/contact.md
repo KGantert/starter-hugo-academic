@@ -39,7 +39,7 @@ content:
     longitude: '12.378558772656167'
   directions: Institutsgebäude Room I209
   office_hours:
-    - ''
+    - 'upon appointment'
   appointment_url: ''
   contact_links:
 
