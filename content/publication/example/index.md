@@ -43,9 +43,9 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2022-07-07T15:49:35.688Z
 url_slides: ""
-title: An example conference paper
+title: The Impact of Active Aggregate Demand on Utilization-Adjusted TFP
 tags: []
 projects: []
 image:
@@ -57,13 +57,3 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
