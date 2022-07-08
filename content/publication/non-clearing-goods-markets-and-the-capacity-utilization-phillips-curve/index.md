@@ -23,4 +23,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-07-08T20:34:01.366Z
+links:
+- name: Most recent version
+  url: "nksbc_full_paper.pdf"
 ---
