@@ -29,4 +29,6 @@ date: 2022-07-08T20:32:02.535Z
 links:
 - name: Most recent version
   url: "endo_prod_full_paper.pdf"
+- name: IWH DP 9/2022
+  url: "https://www.iwh-halle.de/publikationen/detail/the-impact-of-active-aggregate-demand-on-utilisation-adjusted-tfp/"
 ---
