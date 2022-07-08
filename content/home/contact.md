@@ -1,48 +1,29 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 130
-
-title: Contact
-subtitle:
-
+title: Contact Information
+subtitle: null
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
-  # form:
-  # provider: netlify
-  # formspree:
-  #   id:
-  # netlify:
-  #   # Enable CAPTCHA challenge to reduce spam?
-  #   captcha: false
-
-  # Contact details (edit or remove options as required)
-  email: mail@konstantingantert.com
+  office_hours:
+    - upon appointment
   phone: +49 341 9733543
+  appointment_url: ""
+  directions: Institutsgebäude Room I209
   address:
     street: Grimmaische Straße 12
     city: Leipzig
     region: Saxony
-    postcode: '04109'
+    postcode: "04109"
     country: Germany
     country_code: DE
+  contact_links: null
   coordinates:
-    latitude: '51.33953147119495'
-    longitude: '12.378558772656167'
-  directions: Institutsgebäude Room I209
-  office_hours:
-    - 'upon appointment'
-  appointment_url: ''
-  contact_links:
-
+    latitude: "51.33953147119495"
+    longitude: "12.378558772656167"
+  email: mail@konstantingantert.com
+widget_id: contact
 design:
-  columns: '2'
+  columns: "2"
 ---
