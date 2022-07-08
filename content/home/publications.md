@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: working-papers
+widget_id: publications
 weight: 20
-title: Work in Progress
+title: Publications
 subtitle: ""
 content:
   filters:
