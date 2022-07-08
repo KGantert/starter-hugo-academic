@@ -1,7 +1,7 @@
 ---
 widget: featured
 headless: true
-weight: 40
+weight: 20
 title: Featured Publications
 subtitle: ""
 content:
