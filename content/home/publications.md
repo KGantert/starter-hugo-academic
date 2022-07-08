@@ -4,6 +4,7 @@ widget_id: publications
 weight: 30
 title: Publications
 subtitle: ""
+active: true
 content:
   filters:
     folders:
