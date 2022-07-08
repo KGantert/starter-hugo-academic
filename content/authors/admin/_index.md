@@ -1,6 +1,6 @@
 ---
 role: PostDoc in Economics
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Quantitative Dynamic Macroeconomics
