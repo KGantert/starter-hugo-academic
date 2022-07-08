@@ -6,6 +6,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
+publication: PhD Thesis Leipzig University
 draft: false
 featured: false
 image:
