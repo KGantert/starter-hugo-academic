@@ -1,8 +1,9 @@
 ---
 widget: event
-widget_id: Presentations
+widget_id: presentations
 headless: true
 weight: 70
+title: Presentations
 active: true
 design:
   columns: "2"
