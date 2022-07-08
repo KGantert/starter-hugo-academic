@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: working-papers
-weight: 20
-title: Work in Progress
+widget_id: ongoing-work
+weight: 30
+title: Ongoing Work
 subtitle: ""
 active: true
 content:
