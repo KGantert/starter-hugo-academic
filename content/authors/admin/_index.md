@@ -1,6 +1,6 @@
 ---
 role: PostDoc in Economics
-avatar_filename: bild_kgantert_neu_angepasst_2018.jpg
+avatar_filename: ""
 bio: ""
 interests:
   - Quantitative Dynamic Macroeconomics
