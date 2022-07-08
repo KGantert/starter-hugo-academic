@@ -1,0 +1,30 @@
+---
+widget: pages
+widget_id: working-papers
+weight: 20
+title: Work in Progress
+subtitle: ""
+active: false
+content:
+  filters:
+    folders:
+      - publication
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  count: 0
+  offset: 0
+  order: desc
+headless: true
+design:
+  view: citation
+  columns: "2"
+---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
