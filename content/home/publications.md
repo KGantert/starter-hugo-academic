@@ -11,7 +11,7 @@ content:
       - publication
     tag: ""
     category: ""
-    publication_type: "1,2,4,5,6,7"
+    publication_type: 1,2,4,5,6,7
     author: ""
     exclude_featured: false
     exclude_future: false
