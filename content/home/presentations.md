@@ -1,5 +1,5 @@
 ---
-widget: event
+widget: pages
 widget_id: presentations
 headless: true
 weight: 70
