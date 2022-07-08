@@ -4,7 +4,7 @@ widget_id: working-papers
 weight: 20
 title: Work in Progress
 subtitle: ""
-active: false
+active: true
 content:
   filters:
     folders:
