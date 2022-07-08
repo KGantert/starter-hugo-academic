@@ -1,9 +1,10 @@
 ---
 widget: contact
-headless: true
+widget_id: contact
 weight: 130
 title: Contact Information
 subtitle: null
+active: true
 content:
   autolink: true
   office_hours:
@@ -23,7 +24,7 @@ content:
     latitude: "51.33953147119495"
     longitude: "12.378558772656167"
   email: mail@konstantingantert.com
-widget_id: contact
+headless: true
 design:
   columns: "2"
 ---
