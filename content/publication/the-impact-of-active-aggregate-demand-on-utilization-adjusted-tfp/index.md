@@ -26,4 +26,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-07-08T20:32:02.535Z
+links:
+- name: Most recent version
+  url: "endo_prod_full_paper.pdf"
 ---
