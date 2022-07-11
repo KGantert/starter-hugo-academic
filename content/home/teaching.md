@@ -1,5 +1,4 @@
 ---
-widget: pages
 widget_id: teaching
 weight: 60
 title: Teaching
