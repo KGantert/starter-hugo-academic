@@ -1,13 +1,16 @@
 ---
 widget: pages
 widget_id: teaching
-headless: true
 weight: 60
 title: Teaching
+subtitle: ""
 active: true
+content:
+  filters:
+  count: 0
+  offset: 0
+  order: desc
+headless: true
 design:
   columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
 ---
