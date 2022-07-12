@@ -37,7 +37,7 @@ social:
     icon: researchgate
   - display:
       header: true
-    link: " https://orcid.org/0000-0001-9669-4585"
+    link: https://orcid.org/0000-0001-9669-4585
     icon_pack: fab
     icon: orcid
 organizations:
