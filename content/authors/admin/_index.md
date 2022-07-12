@@ -30,6 +30,11 @@ social:
     link: https://www.linkedin.com/in/konstantingantert/
     display:
       header: true
+  - display:
+      header: true
+    link: https://www.researchgate.net/profile/Konstantin-Gantert
+    icon_pack: fab
+    icon: researchgate
 organizations:
   - name: Leipzig University
     url: https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/makrooekonomik
