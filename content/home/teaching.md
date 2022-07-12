@@ -1,6 +1,6 @@
 ---
 widget_id: teaching
-weight: 60
+weight: 40
 title: Teaching
 subtitle: ""
 active: true
