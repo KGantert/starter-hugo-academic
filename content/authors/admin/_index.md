@@ -31,10 +31,15 @@ social:
     display:
       header: true
   - display:
-      header: true
-    link: " https://orcid.org/ 0000-0001-9669-4585"
+      header: false
+    link: https://www.researchgate.net/profile/Konstantin-Gantert
     icon_pack: fab
     icon: researchgate
+  - display:
+      header: true
+    link: " https://orcid.org/0000-0001-9669-4585"
+    icon_pack: fab
+    icon: orcid
 organizations:
   - name: Leipzig University
     url: https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/makrooekonomik
