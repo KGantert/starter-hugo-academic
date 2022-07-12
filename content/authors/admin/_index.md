@@ -31,7 +31,7 @@ social:
     display:
       header: true
   - display:
-      header: false
+      header: true
     link: https://www.researchgate.net/profile/Konstantin-Gantert
     icon_pack: fab
     icon: researchgate
