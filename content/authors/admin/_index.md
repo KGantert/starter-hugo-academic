@@ -61,4 +61,6 @@ email: mail@konstantingantert.com
 ---
 I am an applied macroeconomist working in the fields of monetary policy, inflation, and business cycle analysis. I hold a Ph.D. in Economics from [Leipzig University](https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/makrooekonomik) in Germany.
 
-In my dissertation, I have worked on the impact of non-clearing goods markets on inflation, productivity, and monetary policy. Recently, my work concentrates on monetary policy effectiveness in non-clearing goods markets and capacity utilization as a monetary policy target.
+My recent work concentrates on monetary policy effectiveness in non-clearing goods markets and capacity utilization as a monetary policy target.
+
+I am happy to announce that I will be joining Tilburg University as a Visiting Assistant Professor in September.
